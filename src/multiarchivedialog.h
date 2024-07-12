@@ -24,7 +24,7 @@ along with Mod Organizer.  If not, see <http://www.gnu.org/licenses/>.
 
 #include <QDialog>
 
-#include "ifiletree.h"
+#include <uibase/ifiletree.h>
 
 namespace Ui
 {

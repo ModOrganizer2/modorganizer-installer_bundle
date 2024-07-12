@@ -18,9 +18,10 @@ along with Mod Organizer.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include "installerbundle.h"
-#include "iinstallationmanager.h"
 
 #include <QtPlugin>
+
+#include <uibase/iinstallationmanager.h>
 
 #include "multiarchivedialog.h"
 
